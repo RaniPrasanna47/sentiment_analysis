@@ -1,6 +1,6 @@
 1.store all file in nlp_pipeline folder
 
-2.come to my room and collect mymodel file.
+2. mymodel file.
 
 3. create a models folder inside of predict label folder.
 
@@ -42,5 +42,5 @@
 
 6.1.sentiment analysis localhost frontend website it is your working file.
 
-for api_key- contact to Mahim.....
+api_key
       
